@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "686952488380",
+    "project_id": "lockme-92bf1",
+    "storage_bucket": "lockme-92bf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686952488380:android:1e58a989c3f4ee48311fb9",
+        "android_client_info": {
+          "package_name": "com.technion.lock_me.lock_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686952488380-0ng8k0nrncqoss0r7k1g1r2aestppoe6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjWgokLWidlq5Ycj7yhbvM-3pr2d1R0lM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686952488380-0ng8k0nrncqoss0r7k1g1r2aestppoe6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
